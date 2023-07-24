@@ -30,7 +30,10 @@ main {
   display: inline;
   font-family: "Lobster", cursive;
   text-align: right;
-  font-weight: thin;
+  font-weight: bold;
+  color: rgb(188, 255, 5);
+  text-shadow: 2px 2px 14px #ff6f6f;
+
 }
 
 .languages {

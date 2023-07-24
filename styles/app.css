@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    overflow-x: hidden;
+    width: 100vw;
+}
+main {
+    width: inherit;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+img{
+    display: block;
+    max-width: 100vw;
+    min-height: 100vw
+}

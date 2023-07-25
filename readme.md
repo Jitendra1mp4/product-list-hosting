@@ -1,3 +1,5 @@
+# Hindi
+
 ![sample image](hi/img-hi/1.webp)
 ![sample image](hi/img-hi/2.webp)
 ![sample image](hi/img-hi/3.webp)
@@ -11,7 +13,7 @@
 ![sample image](hi/img-hi/11.webp)
 ![sample image](hi/img-hi/12.webp)
 
-English
+# English
 
 ![sample image](en/img-en/1.webp)
 ![sample image](en/img-en/2.webp)
